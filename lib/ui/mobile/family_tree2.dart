@@ -11,7 +11,7 @@ class FamilyTreeWithThreeLayers extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Вариант №2"),
+        title: const Text("Вариант №2"),
       ),
       body: Column(
         children: [
